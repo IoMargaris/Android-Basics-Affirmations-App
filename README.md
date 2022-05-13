@@ -1,9 +1,9 @@
 # Android-Basics-Affirmations-App
 
 ### What I learned
-* ✅ How to add images to the list of displayed affirmations in a RecyclerView.
-* ✅ How to use MaterialCardView in a RecyclerView item layout.
-* ✅ How to make visual changes in the UI to make the app look more polished.
+* How to add images to the list of displayed affirmations in a RecyclerView.
+* How to use MaterialCardView in a RecyclerView item layout.
+* How to make visual changes in the UI to make the app look more polished.
 
 ### What I built
 * ✅ A polished Affirmations app that uses a RecyclerView to display a list of cards. Each card contains an image and affirmation text.
